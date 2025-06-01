@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Daniel Angarita!
 
-<!--
-**daniel-ang21/daniel-ang21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full Stack Web Development Student | 💻 Passionate about programming and constant learning
 
-Here are some ideas to get you started:
+I'm also a self-taught programmer, exploring different languages ​and technologies. I have knowledge of JavaScript, HTML, and CSS, and I'm especially motivated by developing practical, well-structured solutions focused on user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to grow in the technology sector, combining my business foundation with my technical skills, and continue learning every day.
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daniel-ang21&theme=github-dark-blue)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-ang21&show_icons=true&theme=dark)
